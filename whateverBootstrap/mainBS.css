@@ -3,10 +3,14 @@
   border-radius: 5px;
   box-shadow: 0 0 4px #ccc;
   margin: 3%;
+  width: 320px; /*breite des panels*/
+
 }
 
 .myPanel .heading{
-  background: #B6F0C4;
+  background-image: url(http://68.media.tumblr.com/3cd00128f79a02ad63f8a4b1e3a267a3/tumblr_or13wsP72O1s3yhk4o1_1280.jpg);
+  background-size: 200px 100px;
+  /*background: #B6F0C4;*/
   border-radius: 5px 5px 0 0;
   color: #687D6d;
   padding: 10px 20px;
